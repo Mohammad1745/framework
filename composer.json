@@ -8,7 +8,10 @@
     "autoload": {
         "psr-4": {
             "Framework\\": "src/Alix/Framework"
-        }
+        },
+        "files": [
+            "framework/Helpers/helper.php"
+        ]
     },
     "authors": [
         {
