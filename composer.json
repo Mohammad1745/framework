@@ -1,0 +1,20 @@
+{
+    "name": "alix/math",
+    "description": "Math",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.2.1",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Alix/Framework"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad1745",
+            "email": "mdali2016.227@gmail.com"
+        }
+    ],
+    "require": {}
+}
