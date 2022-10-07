@@ -1,6 +1,6 @@
 {
-    "name": "alix/math",
-    "description": "Math",
+    "name": "alix/framework",
+    "description": "Framework",
     "type": "library",
     "license": "MIT",
     "version": "1.2.1",
