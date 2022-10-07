@@ -10,7 +10,7 @@
             "Framework\\": "src/Alix/Framework"
         },
         "files": [
-            "framework/Helpers/helper.php"
+            "src/Alix/Framework/Helpers/helper.php"
         ]
     },
     "authors": [
