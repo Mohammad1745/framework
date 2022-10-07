@@ -11,3 +11,9 @@ function view (string $view, array $data=[]): bool|string
 {
     return View::render($view, $data);
 }
+
+function redirect (string $uri)
+{
+    header('Location: '.$uri);
+    return '';
+}
