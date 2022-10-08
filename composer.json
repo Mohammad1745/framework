@@ -3,7 +3,7 @@
     "description": "Framework",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Framework\\": "src/Alix/Framework"
